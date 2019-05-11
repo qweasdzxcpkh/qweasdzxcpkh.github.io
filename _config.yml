@@ -12,18 +12,18 @@ github_repo: "https://github.com/qweasdzxcpkh/qweasdzxcpkh.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "What is dead may never die. But rises again harder and stronger."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/me.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     
+zhihu_username:     
+github_username:    
+facebook_username:  
+jianshu_username:   
+#twitter_username:   
 
 
 
